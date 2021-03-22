@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tilenkc
-- 👀 I’m interested in working on interesting projects
-- 🌱 I’m currently learning a bit of everything
+
 
 
 <!---
